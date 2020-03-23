@@ -1,0 +1,8 @@
+# OSX
+.DS_Store
+
+# Ignore thumbnails created by windows
+Thumbs.db
+
+# pycharm
+.idea/
